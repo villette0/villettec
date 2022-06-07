@@ -1,4 +1,4 @@
-#Villette
+
 - 👋 Hi, I’m Villette, @villettec.
 
 - 🌱 I’m currently learning full stack development at University of Arizona.
