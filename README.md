@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m Villette, @villettec.
+- 📚 My portfolio website: [Here](https://villette.vercel.app/)
 - 🌱 I’m currently learning full stack development at University of Arizona.
 - 💞️ I’m also collaborating on several project with classmates.
 - 📫 How to reach me: villette@live.com
 - 💻 Work Opportunities: [LinkedIn](https://www.linkedin.com/in/villette-comfort-80ab86234/)
-- 📚 My portfolio website: [Here](https://villette.vercel.app/)
