@@ -6,9 +6,9 @@
 * 📫 How to reach me: [villette@live.com](mailto:villette@live.com)
 * 💻 Work Opportunities: [LinkedIn](https://www.linkedin.com/in/villette-comfort-80ab86234/)
 
-I initially taught myself to code but expanded my skills completing a full stack development program at University of Arizona.
+<p align="center"> I initially taught myself to code but expanded my skills completing a full stack development program at University of Arizona.</p>
 
-## Languages and Technologies
+<h4 align="center">Tech Stack<h4>
 <p align="center"> 
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
