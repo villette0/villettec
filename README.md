@@ -4,7 +4,6 @@
 <p align="center"> I initially taught myself to code but expanded my skills completing a full stack development program at University of Arizona.</p>
 <div align="center">
  
-[![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:villette@live.com)
 [![](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://villette.vercel.app/)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/villettecomfort/)
  
@@ -25,3 +24,13 @@
   <a href="https://sequelize.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="sequelize" width="40" height="40"/> </a> 
    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
+
+<div id="stats" align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=villettec&show_icons=true&locale=en" alt="am0031" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=villettec&" alt="am0031" />
+</div>
+<div align="center">
+
+![snake gif](https://github.com/amirtha-coder/amirtha-coder/blob/output/github-contribution-grid-snake.gif)
+
+</div>
