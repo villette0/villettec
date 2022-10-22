@@ -1,12 +1,12 @@
 
 <h1 align="center">Villette</h1>
 <h3 align="center">A full stack developer</h3>
+
 * 📚 My portfolio website: [Here](https://villette.vercel.app/)
 * 📫 How to reach me: [villette@live.com](mailto:villette@live.com)
 * 💻 Work Opportunities: [LinkedIn](https://www.linkedin.com/in/villette-comfort-80ab86234/)
 
-I initially taught myself to code and then recently completed a full stack development at University of Arizona:  <br />
-JavaScript, HTML, CSS, jQuery, Bootstrap, Node.js, MySQL, NoSQL, MongoDB, Express.js, React.js
+I initially taught myself to code but expanded my skills completing a full stack development program at University of Arizona.
 
 ## Languages and Technologies
 <p align="center"> 
@@ -25,5 +25,3 @@ JavaScript, HTML, CSS, jQuery, Bootstrap, Node.js, MySQL, NoSQL, MongoDB, Expres
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
-
-![snake gif](https://github.com/villettec/villettec/blob/output/github-contribution-grid-snake.gif)
