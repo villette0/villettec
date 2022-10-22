@@ -1,6 +1,6 @@
 
 <h1 align="center">Villette</h1>
-<h3 align="center">A full stack developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 <p align="center"> I initially taught myself to code but expanded my skills completing a full stack development program at University of Arizona.</p>
 <div align="center">
  
