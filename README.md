@@ -31,6 +31,6 @@
 </div>
 <div align="center">
 
-![snake gif](https://github.com/amirtha-coder/amirtha-coder/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/villettec/villettec/blob/output/github-contribution-grid-snake.svg)
 
 </div>
