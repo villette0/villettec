@@ -5,7 +5,7 @@
 <div align="center">
  
 [![](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://villette.vercel.app/)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/villettecomfort/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/villette1/)
  
 </div>
 <h4 align="center">Tech Stack<h4>
@@ -26,9 +26,9 @@
 </p>
 
 <div id="stats" align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=villettec&show_icons=true&locale=en" alt="villettec" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=villettec&" alt="villettec" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=villettec&layout=compact&langs_count=16" alt="villettec" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=villette0&show_icons=true&locale=en" alt="villette0" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=villette0&" alt="villette0" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=villette0&layout=compact&langs_count=16" alt="villette0" />
 </div>
 <div align="center">
 
