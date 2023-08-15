@@ -32,6 +32,6 @@
 </div>
 <div align="center">
 
-//currently not working: https://blog.arnabghosh.me/add-github-dark-snake-animation-readme ![Snake animation](https://github.com/villette0/villette0/blob/output/github-contribution-grid-snake.svg)
+<!-- snake currently not working: https://blog.arnabghosh.me/add-github-dark-snake-animation-readme ![Snake animation](https://github.com/villette0/villette0/blob/output/github-contribution-grid-snake.svg)-->
 
 </div>
